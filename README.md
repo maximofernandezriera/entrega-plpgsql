@@ -14,3 +14,5 @@ Continuando con la batería anterior de ejercicios (https://github.com/maximofer
       o Si es menor de 800 lo hacemos en un 3%
       o Debes hacer uso de la cláusula  WHERE CURRENT OF
       o Finalmente deberás comprobar que los salarios se han modificado correctamente.
+      
+ ## El script de creación e inserción de las tablas está ubicado en este mismo repositorio.
